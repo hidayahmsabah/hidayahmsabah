@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hidayahmsabah, with background on data science in the banking industry 
+- 👋 Hi, I’m Hidayah, an actuarial science student with background on data science in the banking industry 
 - 👀 I’m interested to mark my presence in the web development industry
 - 🌱 I’m currently learning to enhance my current toolkits on top of React, Javascript on the side of HTML and CSS
 - 💞️ I’m looking to start practising my newly self taught skills professionally 
